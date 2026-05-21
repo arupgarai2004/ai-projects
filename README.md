@@ -4,6 +4,11 @@ This README is a running set of notes for learning AI. More topics and setup ste
 
 ## Python Setup
 
+### Python Notebooks
+
+- [1.0 Basic](/Users/arupgarai/Desktop/ai-projects/1-python basic/1.0-basic.ipynb)
+- [1.1 Variables](/Users/arupgarai/Desktop/ai-projects/1-python basic/1.1-Variables.ipynb)
+
 ### Install Python
 
 Installs Python 3.12 on macOS using Homebrew so you have the correct Python version for local development.
