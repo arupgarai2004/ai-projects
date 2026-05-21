@@ -6,8 +6,12 @@ This README is a running set of notes for learning AI. More topics and setup ste
 
 ### Python Notebooks
 
-- [1.0 Basic](/Users/arupgarai/Desktop/ai-projects/1-python basic/1.0-basic.ipynb)
-- [1.1 Variables](/Users/arupgarai/Desktop/ai-projects/1-python basic/1.1-Variables.ipynb)
+- [1.0 Basic](</Users/arupgarai/Desktop/ai-projects/1-python basic/1.0-basic.ipynb>)
+- [1.1 Variables](</Users/arupgarai/Desktop/ai-projects/1-python basic/1.1-Variables.ipynb>)
+- [1.2 Datatypes](</Users/arupgarai/Desktop/ai-projects/1-python basic/1.2-Datatypes.ipynb>)
+- [1.3 Operators](</Users/arupgarai/Desktop/ai-projects/1-python basic/1.3-operators.ipynb>)
+- [Test Notebook](</Users/arupgarai/Desktop/ai-projects/1-python basic/test.ipynb>)
+- [Requirements File](</Users/arupgarai/Desktop/ai-projects/1-python basic/requiremnt.txt>)
 
 ### Install Python
 
